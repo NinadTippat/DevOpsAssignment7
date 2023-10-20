@@ -15,10 +15,10 @@
     <div class="navitems">
         <ul>
             <a href="/"><li>Home</li></a> 
-           <a href="/about.html"><li>About</li></a> 
-           <a href="/course.html"><li>Courses</li></a> 
-           <a href="/blog.html"><li>Blog</li></a> 
-            <a href="/contact.html"><li>Contact</li></a>
+           <a href="/SampleMaven/about.html"><li>About</li></a> 
+           <a href="/SampleMaven/course.html"><li>Courses</li></a> 
+           <a href="/SampleMaven/blog.html"><li>Blog</li></a> 
+            <a href="/SampleMaven/contact.html"><li>Contact</li></a>
         </ul>
     </div>
 </nav>
