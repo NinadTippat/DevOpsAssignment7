@@ -14,7 +14,7 @@
     </div>
     <div class="navitems">
         <ul>
-            <a href="/"><li>Home</li></a> 
+            <a href="/SampleMaven/index.jsp"><li>Home</li></a> 
            <a href="/SampleMaven/about.html"><li>About</li></a> 
            <a href="/SampleMaven/course.html"><li>Courses</li></a> 
            <a href="/SampleMaven/blog.html"><li>Blog</li></a> 
