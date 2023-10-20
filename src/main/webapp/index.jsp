@@ -1,5 +1,29 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
 <body>
-<h2>Hello World!</h2>
+    
+<nav>
+    <div class="logo">
+        <img src="./logo.png" alt="">
+    </div>
+    <div class="navitems">
+        <ul>
+            <a href="/"><li>Home</li></a> 
+           <a href="/about.html"><li>About</li></a> 
+           <a href="/course.html"><li>Courses</li></a> 
+           <a href="/blog.html"><li>Blog</li></a> 
+            <a href="/contact.html"><li>Contact</li></a>
+        </ul>
+    </div>
+</nav>
+<div class="banner">
+    <img src="./wit-main.jpg" alt="">
+</div>
 </body>
 </html>
